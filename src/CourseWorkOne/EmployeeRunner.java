@@ -10,6 +10,7 @@ public class EmployeeRunner {
                 new Employee("Короваев Александр Владимирович", 99_928, 3),
                 new Employee("Левченко Станислав Андреевич", 61_911, 4),
                 new Employee("Ахметзянов Михаил Ренатович", 89_022, 5)
+
         };
         getInfoAllEmploy(employees);
         getFullNameEmployee(employees);

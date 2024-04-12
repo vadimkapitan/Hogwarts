@@ -14,6 +14,7 @@ public class Employee {
         this.salary = salary;
         this.department = department;
         this.id = ++counter;
+
     }
 
     public int getId() {
